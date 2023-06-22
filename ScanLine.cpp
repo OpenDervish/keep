@@ -118,7 +118,7 @@ void disp()
     
     draw_square();
     fill();
-    //glFlush();
+    glFlush();
 }
 void menu(int ch)
 {
